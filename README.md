@@ -60,9 +60,8 @@ Fonctions Autorisées : malloc
 Dans cet exercice, vous devrez écrire une fonction `ft_range` qui retourne un tableau d'entiers. Ce tableau doit contenir toutes les valeurs entre `min` (inclus) et `max` (exclus).
 
 ## Prototype
-
-```c
-int *ft_range(int min, int max);
+  ```c
+  int *ft_range(int min, int max);
 
 # Exercice 02 : ft_ultimate_range
 
@@ -70,7 +69,7 @@ int *ft_range(int min, int max);
 Dans cet exercice, vous devrez implémenter la fonction `ft_ultimate_range` qui alloue et assigne un tableau d'entiers. Ce tableau doit contenir toutes les valeurs entre `min` (inclus) et `max` (exclus).
 
 ## Prototype
-```c
-int ft_ultimate_range(int **range, int min, int max);
+  ```c
+  int ft_ultimate_range(int **range, int min, int max);
 
 **Note :** Assurez-vous de bien nommer vos fichiers et répertoires conformément aux exigences du sujet et de suivre les consignes de rendu.
